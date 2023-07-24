@@ -1,7 +1,7 @@
 def new_function(a,b):
     return a*b
 
-a1 = int(input("Enter a:"))
-b1= int((input('enter b: ')))
+url1 = int(input("Enter URL:"))
+port1= int((input('enter port: ')))
 
 print(new_function(a1,b1))
